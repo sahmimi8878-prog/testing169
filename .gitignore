@@ -1,0 +1,14 @@
+
+node_modules/
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
