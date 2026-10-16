@@ -14,3 +14,7 @@ Login With Valid Credentials
     #Sleep 10s
     #Close Browser
 
+#python --version เช็คไพทอน
+#pip install robotframework
+#pip install robotframework-seleniumlibrary
+#สั่งรันโปรแกรม robot login.robot
